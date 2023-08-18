@@ -159,3 +159,8 @@ body {
   width: 225px;
   height: 50px;
 }​
+
+.static_text {
+  position: sticky;
+  left: 45%;
+}
