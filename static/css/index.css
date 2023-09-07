@@ -164,3 +164,9 @@ body {
   position: sticky;
   left: 45%;
 }
+
+.content {
+    width: auto;
+
+    /* float: right; */
+}
